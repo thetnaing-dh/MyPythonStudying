@@ -1,0 +1,1 @@
+print ('Hello {name} welcome from {team}.'.format(name='Ko Ko',team='Junior Team'))

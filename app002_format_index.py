@@ -1,0 +1,1 @@
+print ('Hello {2} {3} welcome from {0} {1}.'.format('our','school','Mg','Mg'))
